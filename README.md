@@ -1,5 +1,5 @@
 # Inventory Manager
-A Python program that manages shoe inventory for a warehouse.
+A Python program that manages shoe inventory warehouses in multiple countries.
 
 ## Description
 This program is a Nike warehouse manager that allows the manager to capture, view, edit, search and report on shoe inventory. The program enables the manager to keep a record of the shoe inventory and provides statistics for presentation purposes.
